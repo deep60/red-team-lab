@@ -84,9 +84,9 @@
 
 ## ⚠️ Legal Disclaimer
 
-> Yeh sab **sirf CloudGoat ki apni AWS lab** pe kiya gaya hai.  
-> Real AWS accounts, company infrastructure, ya kisi bhi production system pe kabhi nahi karna.  
-> Unauthorized access illegal hai aur serious consequences hote hain.
+> All of this has been performed solely within CloudGoat's own AWS lab.
+> Never attempt this on real AWS accounts, corporate infrastructure, or any production system.
+> Unauthorized access is illegal and carries serious consequences.
 
 ---
 
