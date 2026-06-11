@@ -2,9 +2,7 @@
 
 > **Ethical Hacking — Apni khud ki vulnerable AWS environment banao aur attack karo.**  
 > Attacker ki tarah sochna seekho taaki better defend kar sako.
-
-**GitHub:** [@deep60](https://github.com/deep60)  
-**Duration:** June 6–11, 2026  
+  
 **Type:** Offensive + Defensive Cloud Security  
 **Status:** ✅ Complete
 
