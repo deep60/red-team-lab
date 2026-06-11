@@ -1,4 +1,4 @@
-# ⚔️ Attack Walkthrough — Har Scenario Step-by-Step
+# ⚔️ Attack Walkthrough — Step-by-Step
 
 > This document is for future reference—exactly what was done, how it was done, and why it was done.
 
