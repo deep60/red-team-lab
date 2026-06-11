@@ -1,7 +1,7 @@
 # ☁️ Cloud Pentesting Red Team Lab
 
-> **Ethical Hacking — Apni khud ki vulnerable AWS environment banao aur attack karo.**  
-> Attacker ki tarah sochna seekho taaki better defend kar sako.
+> **Ethical Hacking — Create your own vulnerable environment and attack.**
+> Learn to think like an attacker so you can defend more effectively.
   
 **Type:** Offensive + Defensive Cloud Security  
 **Status:** ✅ Complete
@@ -41,15 +41,15 @@
 
 ### 1. IAM Privilege Escalation by Policy Rollback
 **Severity:** 🔴 Critical  
-**Concept:** Old IAM policy versions enumerate karke admin version activate karna
+**Concept:** Enumerating Old Farm Policy Versions and Activating Admin Version
 
 ### 2. EC2 SSRF + Lambda Secret Theft  
 **Severity:** 🔴 Critical  
-**Concept:** Lambda env vars mein hardcoded credentials → EC2 role abuse
+**Concept:** Lambda env vars in hardcoded credentials → EC2 role abuse
 
 ### 3. IAM Privilege Escalation by Role Attachment
 **Severity:** 🔴 Critical  
-**Concept:** Instance profile mein powerful role swap → EC2 launch → Metadata theft
+**Concept:** Instance profile in powerful role swap → EC2 launch → Metadata theft
 
 ### 4. Lambda Privilege Escalation
 **Severity:** 🔴 Critical  
