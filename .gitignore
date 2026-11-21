@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# local secrets / AWS profiles
+.env
